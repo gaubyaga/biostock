@@ -1,0 +1,1 @@
+web: gunicorn biostock.wsgi --log-file -
